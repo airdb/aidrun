@@ -32,5 +32,6 @@ Aid Run
 
 ![](aidrun.jpg)
 
+[重大事件社会救助](https://app.diagrams.net/#Hairdb%2Fdrawio%2Fmain%2Faidrun%2Faidrun.drawio)
 
 参考样例：
